@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 I am developing with</h3>
 
 ###
 
