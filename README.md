@@ -71,7 +71,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SadiEnis/SadiEnis/output/snake.yml" alt="Snake animation" />
-
-###
