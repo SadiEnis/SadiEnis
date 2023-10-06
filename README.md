@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Turkey.<br><br>- 🔭 I’m working as Full-Stack Development.<br>- 📚 I'm currently learning HTML-CSS-JS and ASP.Net-C#. <br> I am student in Kayseri University. <br> I am interesting Game Development. <br> </p
+<p align="left">I'm from Turkey.<br><br>- 🔭 I’m working as Full-Stack Development.<br>- 📚 I'm currently learning HTML-CSS-JS and ASP.Net-C#. <br>- 📖 I am student in Kayseri University. <br>- 💻 I am interesting Game Development. <br> </p
 
 ###
 
