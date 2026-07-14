@@ -18,10 +18,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"><br>-  I’m working as Game Development.
+<p align="left"><br>- 👩‍💻 I’m working as Game Development.
 
 ###
